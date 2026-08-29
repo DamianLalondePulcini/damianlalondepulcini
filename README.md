@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Damian Lalonde-Pulcini 👋
 
-<!--
-**DamianLalondePulcini/damianlalondepulcini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a multi-asset market analyst, trading systems developer, app builder, automation specialist, and digital strategist based in Montreal, Canada. I focus on developing custom algorithmic models, Pine Script indicators, and market liquidity frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect & Portfolios
+- **Official Website:** [damianlalondepulcini.com](https://damianlalondepulcini.com)
+- **Market Research & Trading:** [ChartShark22](https://chartshark22.com)
+- **X / Twitter:** [@chartshark22](https://x.com/chartshark22)
+
+---
+
+### 🛠️ Technical Focus & Tooling
+- **Market Analysis:** Pine Script (TradingView), Smart Money Concepts (SMC), Liquidity Models, Gamma Exposure (GEX)
+- **Automation & Web:** Next.js, Webhooks, API Integrations, Python utilities
+- **Research Domains:** Equities, Derivatives / LEAPs, Macroeconomics & Digital Assets
+
+---
+
+### 📌 Featured Repositories
+- [pinescript-indicators](./pinescript-indicators) – Open-source Pine Script (v5) indicators and algorithmic trading utilities.
