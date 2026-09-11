@@ -10,6 +10,7 @@ I am a multi-asset market analyst, trading systems developer, app builder, autom
 - **Market Research & Trading:** [ChartShark22](https://chartshark22.com)
 - **X / Twitter:** [@chartshark22](https://x.com/chartshark22)
 - **About Me** https://about.me/damian-lalonde-pulcini 
+- **Medium** [https://](https://chartshark22.medium.com/)
 ---
 
 ### 🛠️ Technical Focus & Tooling
